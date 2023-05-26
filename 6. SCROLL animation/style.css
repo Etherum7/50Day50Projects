@@ -12,7 +12,7 @@ body {
   justify-content: center;
   padding-bottom: 50px;
   margin: 0;
-
+  overflow-x: hidden;
   background-color: #efedd6;
 }
 
